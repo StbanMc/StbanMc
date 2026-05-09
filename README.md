@@ -19,9 +19,16 @@ la infraestructura de varias empresas con cloud, integraciones y IA aplicada.
 🚧 Construyo en público experimentos sobre integraciones cross-stack, agentes IA aplicados a operación
 real y SaaS bootstrap. Cuento el cómo, no solo el qué — con casos anonimizados y código real.
 
-### 🤝 Open Source Contributions
+### 📦 Paquetes propios en npm
 
-Aportes técnicos en proyectos donde he encontrado y reportado bugs reales en producción.
+- **[seasonly](https://github.com/StbanMc/seasonly)** · Web Component vanilla para tematización
+  estacional con calendario LATAM. Zero deps, ~20 KB gz.
+  [Demo en vivo →](https://stbanmc.github.io/seasonly/) ·
+  [npm →](https://www.npmjs.com/package/seasonly)
+
+- **[m365-graph-mail](https://github.com/StbanMc/m365-graph-mail)** · Cliente liviano de
+  Microsoft Graph mail para Node.js. Zero deps, app-only auth, retry automático.
+  [npm →](https://www.npmjs.com/package/m365-graph-mail)
 
 ### 🌐 Socials
 
