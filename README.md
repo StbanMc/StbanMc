@@ -21,14 +21,7 @@ real y SaaS bootstrap. Cuento el cómo, no solo el qué — con casos anonimizad
 
 ### 🤝 Open Source Contributions
 
-Aportes técnicos en proyectos donde he encontrado y reportado bugs reales en producción:
-
-- 🏆 [`edgardmessias/glpi-singlesignon#148`](https://github.com/edgardmessias/glpi-singlesignon/issues/148) — diagnóstico del root cause (legacy class names tras GLPI 11) que llevó al fix
-- 🐛 [`openclaw/openclaw#53947`](https://github.com/openclaw/openclaw/issues/53947) — `writeTextFileAtomic` (sync) tira EPERM en volúmenes Docker desde Windows
-- 🐛 [`edgardmessias/glpi-singlesignon#160`](https://github.com/edgardmessias/glpi-singlesignon/issues/160) — `POST_INIT` hook inyecta `<script>` en respuestas no-HTML (CSV, PDF, XLSX)
-- 🌐 [`edgardmessias/glpi-singlesignon#159`](https://github.com/edgardmessias/glpi-singlesignon/issues/159) — i18n: traducciones al español (es_ES + es_CO)
-- 🐛 [`glpi-project/glpi#23604`](https://github.com/glpi-project/glpi/issues/23604) — `Firewall::computeFallbackStrategyForPlugin` crash con PcreException
-- 🐛 [`glpi-project/glpi#23606`](https://github.com/glpi-project/glpi/issues/23606) — CSRF check falla para usuarios anónimos en rutas públicas en GLPI 11
+Aportes técnicos en proyectos donde he encontrado y reportado bugs reales en producción.
 
 ### 🌐 Socials
 
